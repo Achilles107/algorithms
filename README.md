@@ -6,7 +6,5 @@ Jump Search
 
 Interpolation Search
 
-
-Fibbonaci Search
  
  
