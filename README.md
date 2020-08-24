@@ -2,9 +2,7 @@
 
 algorithms for search
 
-Jump Search
-
-Interpolation Search
-
- 
+* Jump Search 
+* Interpolation Search
+* Fibonacci Search
  
